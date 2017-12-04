@@ -61,61 +61,61 @@ Social Sciences, University of Hawaiʻi at Mānoa (UH)
 - Directed Researcher (March 2016 – June 2016)
 Santa Clara University, Department of Economics
 
-EDUCATION
+### EDUCATION
 Santa Clara University 								                    2014 – 2018
 B.S. in Economics with a concentration in Mathematical Economics
 B.S. in Mathematics with an emphasis in Applied Mathematics
 B.S. in Computer Science with an emphasis in Data Science
 Minor in Computer Engineering
 
-HONORS/AWARDS
+### HONORS/AWARDS
 SCU Pi Mu Epsilon Mathematics Honors Society, Member		     		               2017 – Present 
 Santa Clara University Grant Award, $175,248						       2014 – 2018
 
 
-RESEARCH ACTIVITIES
-WORKING PAPERS
-1.	Fan VF and Konan JK. “Determinants of Cross Country Tuberculosis Drug Prices,” UH TASI-PHIDC.
-2.	Konan JK, “The Effect of Americanization on the Earnings of Foreign-born Men by Race.”
-PROPOSALS
-3.	Fan VF, Konan JK, et al. “Differential Pricing of Pharmaceuticals: A Quasi-Experimental Pretest-Posttest Analysis,” UH TASI-PHIDC.
-4.	Konan JK, Chong EL, Taba M, Ashton M. “The Effect of the Health Maintenance Program on Patients with Type 2 Diabetes: A Quality and Cost Effectiveness Analysis,” Hawaii Pacific Health, (Revise and Resubmit, IRB Draft 4).
-TECHNICAL DOCUMENTATION
-5.	Konan JK. Package 'RecordLinkage_phidc', “Record Linkage in R for Multiple Files and Claim Types,” UH TASI-PHIDC, 2017.
-6.	Konan JK. Package ‘ccwcca’, “Identifying Acute or Chronic Conditions Using CCW CCA,” UH TASI (now UH TASI-PHIDC), 2016.
-7.	Konan JK. Package ‘tasi_analytics’, “Functions for Basic Epidemiological Demographics,” UH TASI (now UH TASI-PHIDC), 2016.
-USER DOCUMENTATION
-8.	Konan JK, Okamoto S, Fan VF, et al. “Data Engineering Procedures: Programming Usage and Documentation for Record Linkage,” UH TASI-PHIDC, 2017.
+### RESEARCH ACTIVITIES
+*WORKING PAPERS*
+1.	Fan VF and *Konan JK*. “Determinants of Cross Country Tuberculosis Drug Prices,” UH TASI-PHIDC.
+2.	*Konan JK*, “The Effect of Americanization on the Earnings of Foreign-born Men by Race.”
+*PROPOSALS*
+3.	Fan VF, *Konan JK*, et al. “Differential Pricing of Pharmaceuticals: A Quasi-Experimental Pretest-Posttest Analysis,” UH TASI-PHIDC.
+4.	*Konan JK*, Chong EL, Taba M, Ashton M. “The Effect of the Health Maintenance Program on Patients with Type 2 Diabetes: A Quality and Cost Effectiveness Analysis,” Hawaii Pacific Health, (Revise and Resubmit, IRB Draft 4).
+*TECHNICAL DOCUMENTATION*
+5.	*Konan JK*. Package 'RecordLinkage_phidc', “Record Linkage in R for Multiple Files and Claim Types,” UH TASI-PHIDC, 2017.
+6.	*Konan JK*. Package ‘ccwcca’, “Identifying Acute or Chronic Conditions Using CCW CCA,” UH TASI (now UH TASI-PHIDC), 2016.
+7.	*Konan JK*. Package ‘tasi_analytics’, “Functions for Basic Epidemiological Demographics,” UH TASI (now UH TASI-PHIDC), 2016.
+*USER DOCUMENTATION*
+8.	*Konan JK*, Okamoto S, Fan VF, et al. “Data Engineering Procedures: Programming Usage and Documentation for Record Linkage,” UH TASI-PHIDC, 2017.
 
-TEACHING ACTIVITIES
-Co-Instructor, Health Analytics Training Initiative				                      Nov. 2017
+### TEACHING ACTIVITIES
+- Co-Instructor, Health Analytics Training Initiative	(Nov. 2017)
 Capacity Building On-site Civic Engagement through UH TASI-PHIDC
-Co-Instructor, Basic Introduction to Healthcare Analytics		            	    July 2017 – Aug. 2017
+- Co-Instructor, Basic Introduction to Healthcare Analytics		(July 2017 – Aug. 2017)
 Capacity Building Interactive Labs and Webinars (via Zoom) through UH TASI-PHIDC
-Teaching Assistant to Dr. Tran, Data Structures (Two Sections)	             March 2017 – June 2017
+- Teaching Assistant to Dr. Tran, Data Structures (Two Sections)	(March 2017 – June 2017)
 Department of Mathematics and Computer Science, Santa Clara University
-Teaching Assistant to Dr. Tran, Theory of Algorithms	      	       	              Jan. 2017 – March 2017
+- Teaching Assistant to Dr. Tran, Theory of Algorithms	(Jan. 2017 – March 2017)
 Department of Mathematics and Computer Science, Santa Clara University
-Instructor, Introduction to Applications of R to Healthcare		            	    July 2017 – Aug. 2017
+- Instructor, Introduction to Applications of R to Healthcare	(July 2017 – Aug. 2017)
 Professional Development for the Core Analytics Staff at UH TASI (now UH TASI-PHIDC)
 
-SERVICE ACTIVITIES
-Co-founder & Vice-chair, SCU ACM SIGGRAPH		             	                Jan. 2016 – Sept. 2017
+### SERVICE ACTIVITIES
+- Co-founder & Vice-chair, SCU ACM SIGGRAPH		             	                Jan. 2016 – Sept. 2017
 Santa Clara University
-Board Member, Santa Clara Economics Association		          		  Sept.2016 – Sept. 2017
+- Board Member, Santa Clara Economics Association		          		  Sept.2016 – Sept. 2017
 Santa Clara University
-Teaching Assistant, Math Enrichment Program (K-2)		      	               Dec. 2015 – April 2016
+- Teaching Assistant, Math Enrichment Program (K-2)		      	               Dec. 2015 – April 2016
 Millikin Elementary
 
-CERTIFICATIONS
-Responsible Conduct of Research (Biomedical and Biological), 	         March 2017 – March 2021
+### CERTIFICATIONS
+- Responsible Conduct of Research (Biomedical and Biological) (March 2017 – March 2021)
 University of Miami, CITI Program • Report ID: 21103449
-Good Clinical Practice (U.S. Food and Drug Administration Focus)	    	    Jan. 2017 – Jan. 2020
+- Good Clinical Practice (U.S. Food and Drug Administration Focus) (Jan. 2017 – Jan. 2020)
 University of Miami, CITI Program • Report ID: 19921923
-Conflicts of Interest (U.S. Public Health Service Focus)	          		 Nov. 2016 – Nov. 2020
+- Conflicts of Interest (U.S. Public Health Service Focus) (Nov. 2016 – Nov. 2020)
 University of Miami, CITI Program • Report ID: 5617967
-Human Subjects Research (Biomedical and Biological)		     	   Oct. 2016 – Oct. 2019
+- Human Subjects Research (Biomedical and Biological)	(Oct. 2016 – Oct. 2019)
 University of Miami, CITI Program • Report ID: 19933805
-Information Privacy and Security (Biomedical and Biological)		               June 2016 – June 2019
+- Information Privacy and Security (Biomedical and Biological) (June 2016 – June 2019)
 University of Miami, CITI Program • Report ID: 19921923
 
