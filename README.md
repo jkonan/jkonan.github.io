@@ -27,7 +27,7 @@ CMS CCW: Disease Classification, Data Visualization
 Immigration: Labor Economics, Applied Econometrics
 
 ### HONORS/AWARDS
-- SCU Pi Mu Epsilon Mathematics Honors Society, Member (2017 – Present)  
+- SCU Pi Mu Epsilon Mathematics Honors Society, Member (2017+)  
 - Santa Clara University Grant Award (2014 – 2018)
 
 ### RESEARCH ACTIVITIES
