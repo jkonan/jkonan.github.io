@@ -42,23 +42,23 @@ J O S E P H   H.   K O N A N
 7 3 4   O C E A N  V I E W  D R.   |    H O N O L U L U,   H  I    9 6 8 1 6
 P H O N E  8 0 8 – 7 2 1 – 4 7 1 6   |   J K O N A N @ S C U . E D U 
 
-BIOSKETCH
+### BIOSKETCH
 Joseph Konan is an Analytics Systems Programmer with the Telecom & Social Informatics Research Program and Pacific Health Informatics & Data Center at the University of Hawaiʻi at Mānoa (UH TASI-PHIDC).  He implements and extends stochastic and machine learning methods for record linkage classification of individuals across various health data records (hospitals, insurers, and other EHR claims data) in order to facilitate health research.  His R package, ‘RecordLinkage_phidc,’ has become the standard for the Hawaiʻi Health Data Center under UH TASI-PHIDC for all payers claims data involving publicly insured individuals (i.e. Medicare, Medicaid, and State employees) for various insurance providers. Konan offers training on the use of the techniques and principles he uses in R for health policy researchers and practitioners in Hawaiʻi, Guam, and North Mariana.  Konan also advances independent applied econometric research involving large data sets on epidemiological, demographic, and economics of health care systems.  He will earn his B.S. degree from Santa Clara University as a triple major in Mathematics, Economics, and Computer Sciences with a minor in Computer Engineering. As part of numerous capacity building initiatives, Konan has jointly and independently provided R training – in person and online via interactive labs and webinars – to government agencies and multilateral institutions in the Pacific region.  
 
-INTERESTS
+### INTERESTS
 Econometrics, Machine/Deep Learning, Causal Inference, Health Economics, Industrial Organization, Health Systems, Policy Evaluation
 
-EXPERIENCE
-Analytics Systems Programmer I					            	      Feb. 2017 – Present
+### EXPERIENCE
+-Analytics Systems Programmer I	(Feb. 2017 – Present)
 Pacific Health Informatics & Data Center (PHIDC), Telecom & Social Informatics (TASI) Research 
 Program, Social Science Research Institute, College of Social Sciences, University of Hawaiʻi at Mānoa 
-Research Assistant						            		  Sept. 2016 – Feb. 2017
+-Research Assistant	(Sept. 2016 – Feb. 2017)
 Pacific Health Informatics & Data Center (PHIDC), Telecom & Social Informatics (TASI) Research 
 Program, Social Science Research Institute, College of Social Sciences, University of Hawaiʻi at Mānoa
-Healthcare Policy and Research Intern				      	  June 2016 – Sept. 2016
+-Healthcare Policy and Research Intern	(June 2016 – Sept. 2016)
 Telecom & Social Informatics (TASI) Research Program, Social Science Research Institute, College of 
 Social Sciences, University of Hawaiʻi at Mānoa (UH)
-Directed Researcher							             March 2016 – June 2016
+-Directed Researcher (March 2016 – June 2016)
 Santa Clara University, Department of Economics
 
 EDUCATION
