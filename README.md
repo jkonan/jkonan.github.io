@@ -77,24 +77,24 @@ USER DOCUMENTATION
 8.	**Konan JK**, Okamoto S, Fan VF, et al. “Data Engineering Procedures: Programming Usage and Documentation for Record Linkage,” UH TASI-PHIDC, 2017.
 
 ### TEACHING ACTIVITIES
-- Co-Instructor, Health Analytics Training Initiative	(Nov. 2017)  
-Capacity Building On-site Civic Engagement through UH TASI-PHIDC  
-- Co-Instructor, Basic Introduction to Healthcare Analytics (July 2017 – Aug. 2017)  
-Capacity Building Interactive Labs and Webinars (via Zoom) through UH TASI-PHIDC  
-- Teaching Assistant to Dr. Tran, Data Structures (Two Sections) (March 2017 – June 2017)  
-epartment of Mathematics and Computer Science, Santa Clara University  
-- Teaching Assistant to Dr. Tran, Theory of Algorithms (Jan. 2017 – March 2017)  
-Department of Mathematics and Computer Science, Santa Clara University  
-- Instructor, Introduction to Applications of R to Healthcare (July 2017 – Aug. 2017)  
+- *UH TASI-PHIDC* - Co-Instructor (2017)  
+Health Analytics Training: Capacity Building, Civic Engagement
+- *UH TASI-PHIDC* - Co-Instructor (2017 – 2017)  
+Intro Health Analytics Training: Capacity Building, Civic Engagement
+- *SCU Dept. Math/CS* - Teaching Assistant, Spring (2017)  
+Data Structures: Grade Assignment, Evaluate Students
+- *SCU Dept. Math/CS* - Teaching Assistant, Winter (2017)  
+Theory of Algorithms: Grade Assignment, Evaluate Students
+- *UH TASI-PHIDC* - Instructor, Introduction to Applications of R to Healthcare (July 2017 – Aug. 2017)  
 Professional Development for the Core Analytics Staff at UH TASI (now UH TASI-PHIDC)  
 
 ### SERVICE ACTIVITIES
-- Co-founder & Vice-chair, SCU ACM SIGGRAPH	(Jan. 2016 – Sept. 2017)  
-Santa Clara University  
-- Board Member, Santa Clara Economics Association (Sept.2016 – Sept. 2017)  
-Santa Clara University  
-- Teaching Assistant, Math Enrichment Program (K-2) (Dec. 2015 – April 2016)  
-Millikin Elementary  
+- *SCU ACM SIGGRAPH* - Co-founder & Vice-chair, 	(2016 – 2017)  
+Executive: Develop Bilaws, Manage Affairs  
+- *SCU Economics Association* - Board Member (2016 – 2017)  
+Executive: Strategic Planning, Marketing  
+- *Millikin Elementary* Teaching Assistant (K-2) (2015 – 2016)  
+Math Enrichment: Facilitate Learning, Exercise Patience  
 
 ### CERTIFICATIONS
 - Responsible Conduct of Research (2017 – 2021)  
