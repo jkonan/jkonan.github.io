@@ -66,17 +66,24 @@ SCU Pi Mu Epsilon Mathematics Honors Society, Member (2017 – Present)
 Santa Clara University Grant Award (2014 – 2018)
 
 ### RESEARCH ACTIVITIES
-WORKING PAPERS
+**WORKING PAPERS**
 1.	Fan VF and **Konan JK**. “Determinants of Cross Country Tuberculosis Drug Prices,” UH TASI-PHIDC.
+
 2.	**Konan JK**, “The Effect of Americanization on the Earnings of Foreign-born Men by Race.”
-PROPOSALS
+
+**PROPOSALS**
 3.	Fan VF, **Konan JK**, et al. “Differential Pricing of Pharmaceuticals: A Quasi-Experimental Pretest-Posttest Analysis,” UH TASI-PHIDC.
+
 4.	**Konan JK**, Chong EL, Taba M, Ashton M. “The Effect of the Health Maintenance Program on Patients with Type 2 Diabetes: A Quality and Cost Effectiveness Analysis,” Hawaii Pacific Health, (Revise and Resubmit, IRB Draft 4).
-TECHNICAL DOCUMENTATION
+
+**TECHNICAL DOCUMENTATION**
 5.	**Konan JK**. Package 'RecordLinkage_phidc', “Record Linkage in R for Multiple Files and Claim Types,” UH TASI-PHIDC, 2017.
+
 6.	**Konan JK**. Package ‘ccwcca’, “Identifying Acute or Chronic Conditions Using CCW CCA,” UH TASI (now UH TASI-PHIDC), 2016.
+
 7.	**Konan JK**. Package ‘tasi_analytics’, “Functions for Basic Epidemiological Demographics,” UH TASI (now UH TASI-PHIDC), 2016.
-USER DOCUMENTATION
+
+**USER DOCUMENTATION**
 8.	**Konan JK**, Okamoto S, Fan VF, et al. “Data Engineering Procedures: Programming Usage and Documentation for Record Linkage,” UH TASI-PHIDC, 2017.
 
 ### TEACHING ACTIVITIES
@@ -87,13 +94,13 @@ Health Analytics Training: Capacity Building, Civic Engagement
 Intro Health Analytics Training: Capacity Building, Civic Engagement
 
 - *SCU Dept. Math/CS* - Teaching Assistant, Spring (2017)  
-Data Structures: Grade Assignment, Evaluate Students
+Data Structures: Grade Assignments, Evaluate Students
 
 - *SCU Dept. Math/CS* - Teaching Assistant, Winter (2017)  
-Theory of Algorithms: Grade Assignment, Evaluate Students
+Theory of Algorithms: Grade Assignments, Evaluate Students
 
-- *UH TASI-PHIDC* - Instructor, Introduction to Applications of R to Healthcare (July 2017 – Aug. 2017)  
-Professional Development for the Core Analytics Staff at UH TASI (now UH TASI-PHIDC)  
+- *UH TASI-PHIDC* - Instructor (July 2017 – Aug. 2017)  
+Health Analytics Training: Capacity Building, Professional Development
 
 ### SERVICE ACTIVITIES
 - *SCU ACM SIGGRAPH* - Co-founder & Vice-chair, 	(2016 – 2017)  
