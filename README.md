@@ -49,17 +49,14 @@ Joseph Konan is an Analytics Systems Programmer with the Telecom & Social Inform
 Econometrics, Machine/Deep Learning, Causal Inference, Health Economics, Industrial Organization, Health Systems, Policy Evaluation
 
 ### EXPERIENCE
-- Analytics Systems Programmer I	(Feb. 2017 – Present)  
-Pacific Health Informatics & Data Center (PHIDC), Telecom & Social Informatics (TASI) Research 
-Program, Social Science Research Institute, College of Social Sciences, University of Hawaiʻi at Mānoa 
-- Research Assistant	(Sept. 2016 – Feb. 2017)  
-Pacific Health Informatics & Data Center (PHIDC), Telecom & Social Informatics (TASI) Research 
-Program, Social Science Research Institute, College of Social Sciences, University of Hawaiʻi at Mānoa
-- Healthcare Policy and Research Intern	(June 2016 – Sept. 2016)  
-Telecom & Social Informatics (TASI) Research Program, Social Science Research Institute, College of 
-Social Sciences, University of Hawaiʻi at Mānoa (UH)
-- Directed Researcher (March 2016 – June 2016)  
-Santa Clara University, Department of Economics
+- *UH TASI-PHIDC* - Analytics Systems Programmer I	(2017+)  
+Record Linkage: Machine Learning, Data Engineering
+- *UH TASI-PHIDC* - Research Assistant	(2016 – 2017)  
+Record Linkage: Machine Learning, Data Engineering
+- *UH TASI-PHIDC* - Healthcare Policy and Research Intern	(2016)  
+CMS CCW: Disease Classification, Data Visualization
+- *SCU* - Directed Researcher (2016)  
+Labor Economics
 
 ### EDUCATION
 Santa Clara University (2014 – 2018)  
