@@ -6,6 +6,13 @@ Joseph Konan is an Analytics Systems Programmer with the Telecom & Social Inform
 ### INTERESTS
 Econometrics, Machine/Deep Learning, Causal Inference, Health Economics, Industrial Organization, Health Systems, Policy Evaluation
 
+### EDUCATION
+Santa Clara University (2014 – 2018)  
+B.S. in Economics with a concentration in Mathematical Economics  
+B.S. in Mathematics with an emphasis in Applied Mathematics  
+B.S. in Computer Science with an emphasis in Data Science  
+Minor in Computer Engineering
+
 ### EXPERIENCE
 - *UH TASI-PHIDC* - Analytics Systems Programmer I	(2017+)  
 Record Linkage: Machine Learning, Data Engineering  
@@ -88,10 +95,3 @@ University of Miami, CITI Program | Report ID: 19933805
 
 - Information Privacy and Security, Biomedical (2016 – 2019)  
 University of Miami, CITI Program | Report ID: 19921923  
-
-### EDUCATION
-Santa Clara University (2014 – 2018)  
-B.S. in Economics with a concentration in Mathematical Economics  
-B.S. in Mathematics with an emphasis in Applied Mathematics  
-B.S. in Computer Science with an emphasis in Data Science  
-Minor in Computer Engineering
