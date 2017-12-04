@@ -51,10 +51,13 @@ Econometrics, Machine/Deep Learning, Causal Inference, Health Economics, Industr
 ### EXPERIENCE
 - *UH TASI-PHIDC* - Analytics Systems Programmer I	(2017+)  
 Record Linkage: Machine Learning, Data Engineering  
+
 - *UH TASI-PHIDC* - Research Assistant	(2016 – 2017)  
 Record Linkage: Machine Learning, Data Engineering  
+
 - *UH TASI-PHIDC* - Healthcare Policy and Research Intern	(2016)  
 CMS CCW: Disease Classification, Data Visualization  
+
 - *SCU* - Directed Researcher (2016)  
 Economics: Applied Econometrics, Pooled Cross-Sectional
 
@@ -79,34 +82,44 @@ USER DOCUMENTATION
 ### TEACHING ACTIVITIES
 - *UH TASI-PHIDC* - Co-Instructor (2017)  
 Health Analytics Training: Capacity Building, Civic Engagement
+
 - *UH TASI-PHIDC* - Co-Instructor (2017 – 2017)  
 Intro Health Analytics Training: Capacity Building, Civic Engagement
+
 - *SCU Dept. Math/CS* - Teaching Assistant, Spring (2017)  
 Data Structures: Grade Assignment, Evaluate Students
+
 - *SCU Dept. Math/CS* - Teaching Assistant, Winter (2017)  
 Theory of Algorithms: Grade Assignment, Evaluate Students
+
 - *UH TASI-PHIDC* - Instructor, Introduction to Applications of R to Healthcare (July 2017 – Aug. 2017)  
 Professional Development for the Core Analytics Staff at UH TASI (now UH TASI-PHIDC)  
 
 ### SERVICE ACTIVITIES
 - *SCU ACM SIGGRAPH* - Co-founder & Vice-chair, 	(2016 – 2017)  
 Executive: Develop Bilaws, Manage Affairs  
+
 - *SCU Economics Association* - Board Member (2016 – 2017)  
 Executive: Strategic Planning, Marketing  
+
 - *Millikin Elementary* Teaching Assistant (K-2) (2015 – 2016)  
 Math Enrichment: Facilitate Learning, Exercise Patience  
 
 ### CERTIFICATIONS
-- Responsible Conduct of Research (2017 – 2021)  
-University of Miami, CITI Program  
-- Good Clinical Practice (U.S. Food and Drug Administration Focus) (Jan. 2017 – Jan. 2020)  
-University of Miami, CITI Program • Report ID: 19921923  
-- Conflicts of Interest (U.S. Public Health Service Focus) (Nov. 2016 – Nov. 2020)  
-University of Miami, CITI Program • Report ID: 5617967  
-- Human Subjects Research (Biomedical and Biological) (Oct. 2016 – Oct. 2019)  
-University of Miami, CITI Program • Report ID: 19933805  
-- Information Privacy and Security (Biomedical and Biological) (June 2016 – June 2019)  
-University of Miami, CITI Program • Report ID: 19921923  
+- Responsible Conduct of Research, Biomedical (2017 – 2021)  
+University of Miami, CITI Program | Report ID: 21103449  
+
+- Good Clinical Practice, U.S. FDA Focus (2017 – 2020)  
+University of Miami, CITI Program | Report ID: 19921923  
+
+- Conflicts of Interest U.S. PHS Focus (2016 – 2020)  
+University of Miami, CITI Program | Report ID: 5617967  
+
+- Human Subjects Research, Biomedical (2016 – 2019)  
+University of Miami, CITI Program | Report ID: 19933805  
+
+- Information Privacy and Security, Biomedical (2016 – 2019)  
+University of Miami, CITI Program | Report ID: 19921923  
 
 ### EDUCATION
 Santa Clara University (2014 – 2018)  
