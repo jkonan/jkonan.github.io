@@ -69,21 +69,21 @@ Economics: Applied Econometrics, Pooled Cross-Sectional
 **WORKING PAPERS**  
 1.	Fan VF and **Konan JK**. “Determinants of Cross Country Tuberculosis Drug Prices,” UH TASI-PHIDC.
 
-2.	**Konan JK**, “The Effect of Americanization on the Earnings of Foreign-born Men by Race.”    
+2.	**Konan JK**, “[The Effect of Americanization on the Earnings of Foreign-born Men by Race.](https://drive.google.com/file/d/1QYiRcDhU1d2vlBkmqj290cT426UgZ08o/view?usp=sharing)”    
 
 **PROPOSALS**  
 
 3.	Fan VF, **Konan JK**, et al. “Differential Pricing of Pharmaceuticals: A Quasi-Experimental Pretest-Posttest Analysis,” UH TASI-PHIDC.
 
-4.	**Konan JK**, Chong EL, Taba M, Ashton M. “The Effect of the Health Maintenance Program on Patients with Type 2 Diabetes: A Quality and Cost Effectiveness Analysis,” Hawaii Pacific Health, (Revise and Resubmit, IRB Draft 4).    
+4.	**Konan JK**, Chong EL, Taba M, Ashton M. “The Effect of the Health Maintenance Program on Patients with Type 2 Diabetes: A Quality and Cost Effectiveness Analysis,” Hawaii Pacific Health, ([Proof of Concept](https://drive.google.com/file/d/1HteZYs1okq6jYjNpQA9w2rPKf5oawnfJ/view?usp=sharing); [IRB Draft](https://drive.google.com/file/d/1gzFjKILCzG1zWvub0bZOZ0-EpolXSBy6/view?usp=sharing)).    
 
 **TECHNICAL DOCUMENTATION**  
 
-5.	**Konan JK**. Package 'RecordLinkage_phidc', “Record Linkage in R for Multiple Files and Claim Types,” UH TASI-PHIDC, 2017.
+5.	**Konan JK**. Package '[RecordLinkage_phidc](https://drive.google.com/file/d/1tOSb2LzjQMAnxTCYiN6yq4NKRoHoU4RS/view?usp=sharing)', “Record Linkage in R for Multiple Files and Claim Types,” UH TASI-PHIDC, 2017.
 
-6.	**Konan JK**. Package ‘ccwcca’, “Identifying Acute or Chronic Conditions Using CCW CCA,” UH TASI (now UH TASI-PHIDC), 2016.
+6.	**Konan JK**. Package ‘[ccwcca](https://drive.google.com/file/d/1v_Amv3yC11etoxoV_P9RHcaf8DJiwWuI/view?usp=sharing)’, “Identifying Acute or Chronic Conditions Using CCW CCA,” UH TASI (now UH TASI-PHIDC), 2016.
 
-7.	**Konan JK**. Package ‘tasi_analytics’, “Functions for Basic Epidemiological Demographics,” UH TASI (now UH TASI-PHIDC), 2016.    
+7.	**Konan JK**. Package ‘[tasi_analytics](https://drive.google.com/file/d/1RvcR_1s6KAP7TNptv24gx4ZL8KH-lbRg/view?usp=sharing)’, “Functions for Basic Epidemiological Demographics,” UH TASI (now UH TASI-PHIDC), 2016.    
 
 **USER DOCUMENTATION**  
 
