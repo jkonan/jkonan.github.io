@@ -87,7 +87,7 @@ Economics: Applied Econometrics, Pooled Cross-Sectional
 
 **USER DOCUMENTATION**  
 
-8.	**Konan JK**, Okamoto S, Fan VF, et al. “Data Engineering Procedures: Programming Usage and Documentation for Record Linkage,” UH TASI-PHIDC, 2017.
+8.	**Konan JK**, Okamoto S, Fan VF, et al. “[Data Engineering Procedures: Programming Usage and Documentation for Record Linkage](https://drive.google.com/file/d/1-Afe4q0GYZC1obbuvo0AD_KHdv98_Mc1/view?usp=sharing),” UH TASI-PHIDC, 2017.
 
 ### TEACHING ACTIVITIES
 - *UH TASI-PHIDC* - Co-Instructor (2017)  
