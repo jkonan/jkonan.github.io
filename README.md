@@ -23,8 +23,8 @@ Record Linkage: Machine Learning, Data Engineering
 - *UH TASI-PHIDC* - Healthcare Policy and Research Intern	(2016)  
 CMS CCW: Disease Classification, Data Visualization  
 
-- *SCU* - Directed Researcher (2016)  
-Economics: Applied Econometrics, Pooled Cross-Sectional
+- *SCU Department of Economics* - Directed Researcher (2016)  
+Immigration: Labor Economics, Applied Econometrics
 
 ### HONORS/AWARDS
 - SCU Pi Mu Epsilon Mathematics Honors Society, Member (2017 – Present)  
