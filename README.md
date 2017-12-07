@@ -34,7 +34,7 @@ Immigration: Labor Economics, Applied Econometrics
 **WORKING PAPERS**  
 1.	Fan VF and **Konan JK**. “Determinants of Cross Country Tuberculosis Drug Prices,” UH TASI-PHIDC.
 
-2.	**Konan JK**, “[The Effect of Americanization on the Earnings of Foreign-born Men by Race.](https://drive.google.com/file/d/1QYiRcDhU1d2vlBkmqj290cT426UgZ08o/view?usp=sharing)”    
+2.	**Konan JK**, “[The Effect of Americanization on the Earnings of Foreign-born Men by Race.](https://drive.google.com/file/d/1QYiRcDhU1d2vlBkmqj290cT426UgZ08o/view?usp=sharing)”   
 
 **PROPOSALS**  
 
