@@ -67,7 +67,7 @@ Data Structures: Grade Assignments, Evaluate Students
 - *SCU Dept. Math/CS* - Teaching Assistant, Winter (2017)  
 Theory of Algorithms: Grade Assignments, Evaluate Students
 
-- *UH TASI-PHIDC* - Instructor (July 2017 – Aug. 2017)  
+- *UH TASI-PHIDC* - Instructor (2017)  
 Health Analytics Training: Capacity Building, Professional Development
 
 ### SERVICE ACTIVITIES
